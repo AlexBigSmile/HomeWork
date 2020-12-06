@@ -1,0 +1,39 @@
+body {
+    background-color: #121116;
+}
+#logo {
+    margin-top: 120px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+#social {
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#separator {
+    width: 230px;
+    height: 1px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+#link {
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+    margin: 0 17px;
+}
+footer {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 88px;
+    text-align: center;
+}
+footer span {
+    color: #00c7fc;
+}

@@ -1,0 +1,71 @@
+p {
+    font-size: 14px;
+    line-height: 24px;
+}
+h1 {
+    font-size: 35px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 85px;
+    
+
+} 
+h1, h2 {
+    color: #ffae00;
+}
+h2 {
+    text-transform: uppercase;
+    margin-bottom: 70px;
+    
+
+}
+main {
+    width: 1140px;
+    margin: 0 auto;
+}
+section {
+    width: 50%;
+    display: inline-block;
+}
+.skill-count .line,
+.skill-count .number {
+    display: inline-block;
+}
+.skill-count .line {
+    background-color: #ffae00;
+    height: 5px;
+    vertical-align: bottom;
+}
+.skill-count .number {
+    width: 40px;
+    background-color: #ffae00;
+    color: #ffffff;
+    text-align: center;
+    margin-left: -5px;
+}
+.line.ps {
+    width: calc(90% - 40px); 
+}
+.line.ad {
+    width: calc(85% - 40px);
+}
+.line.ht {
+    width: calc(89% - 40px);
+}
+.line.dis {
+    width: calc(87% - 40px);
+}
+.line.ui {
+    width: calc(95% - 40px);
+}
+button {
+    width: 170px;
+    height: 38px;
+    background-color: #ffae00;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Raleway";
+}
