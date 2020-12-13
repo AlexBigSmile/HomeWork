@@ -1,0 +1,47 @@
+body {
+    background-color: #fdde7e;
+    text-align: center;
+    }
+.block_row {
+    display: inline-flex;
+    margin-top: 50px;
+   margin-left: 30px;
+   margin-bottom: 50px;
+   margin-right: 30px;
+
+}
+.price {
+    font-size: 70px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #02995b;
+    font-weight: bold;
+    font-family: "Miso";
+    text-align: center;
+  }
+.block_item {
+    background-color: white;
+    padding: 360px;
+    top: 440px;
+    text-align: center;
+}
+.block_item1 {
+    background-color: white;
+    padding: 360px;
+    top: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: stretch;
+    text-align: center;
+}    
+.anotacion {
+    padding-left: 115px;
+    padding-top: 156px;
+    padding-bottom: 156px;
+    padding-right: 115px;
+    font-size: 56px;
+    line-height: 24px;
+    color: #333333;
+    font-family: "Miso";
+    line-height:1.4em;
+}
